@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/oauth", "destination": "me2day://oauth" }
+  ]
+}
